@@ -61,7 +61,7 @@ You can view/download my resume [here](https://drive.google.com/file/d/12SZCch3A
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/portfolio-project.git
+   git clone https://github.com/harshitha-507/My_Portfolio.git
 2. Open index.html in your browser
 Or use Live Server if you're using VS Code.
 

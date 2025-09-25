@@ -7,7 +7,7 @@ This project showcases my **skills**, **projects**, **education**, **certificati
 
 ## 🚀 Live Demo
 
-🔗 [View Portfolio Online]()
+🔗 [View Portfolio Online](https://portfolio-harshi.netlify.app/)
 
 ---
 
